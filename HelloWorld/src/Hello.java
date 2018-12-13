@@ -37,5 +37,29 @@ public class Hello {
         // Long (width of 64)
         long myLongValue = 9_223_372_036_854_775_807L;
 
+        // Practice casting
+        long demo = 10000;
+
+        long a = (long) (demo * myByteValue) + myShortValue + result;
+
+        System.out.println(a);
+
+        // Line break in results
+        System.out.println("==========");
+
+        // Float (add f after the number)
+        float myFloatNumber = 5f;
+
+        // Double (Has double as much info as float)
+        double myDoubleNumber = 5.25;
+
+        double pounds = 8d;
+        double convertToLBStoKG = pounds * 0.45359237;
+        System.out.println("8 pounds is equal to: " + convertToLBStoKG + " kg");
+
+        // Line break in results
+        System.out.println("==========");
+
+
     }
 }
