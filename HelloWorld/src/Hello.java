@@ -1,3 +1,7 @@
+/*
+    Variables Datatypes and Operators
+ */
+
 public class Hello {
 
     public static void main(String[] args) {
@@ -82,11 +86,12 @@ public class Hello {
 
         boolean isAlien = false;
 
-        if (isAlien == false)
+        if (isAlien == false) {
             System.out.println("It is not a alien");
-        else
+        } else {
             System.out.println("It is a alien!");
-
+        }
+        
         // Ternary operator
         boolean isCar = true;
 
