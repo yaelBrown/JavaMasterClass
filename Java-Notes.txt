@@ -1,0 +1,7 @@
+Java
+  openJDK 11
+  IntelliJ Idea
+
+OpenJDK 11 - Amazon Corretto - https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html
+
+
