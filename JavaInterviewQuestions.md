@@ -1,67 +1,68 @@
 # Java Interview Questions (learn this stuff)
 
 ## Not so basic basics
-1   What is an object ? 
-2   What is method overriding in java ? 
-3   What is super keyword in java ? 
-4   What is method overloading in java ?  
-5   What is difference between c++ and Java ? 
-6 What is JIT compiler ?  
-7   What is bytecode in java ?  
-8   Difference between method overloading and method overriding in java ? 
-9   Difference between abstract class and interface ? 
-10    Why java is platform independent? 
-11  Difference between this(  and super(  in java ?
-12  How to call one constructor from the other constructor ?  
-13  what are static blocks and static initalizers in Java ? 
-14  What is method in java ?  
-15  What is constructor in java ? 
-17  Difference between Character Constant and String Constant in java ?
-18  Why main( method is public, static and void in java ? 
-19  Explain about main( method in java ?  
-20  What is difference between length and length( method in java ?  
-21    What  is ASCII Code?  
-22  What is Unicode ? 
-23  What are constants and how to create constants in java? 
+1   What is an object?
+2   What is method overriding in java?
+3   What is super keyword in java?
+4   What is method overloading in java?
+5   What is difference between c++ and Java?
+6   What is JIT compiler?  
+7   What is bytecode in java ?
+8   Difference between method overloading and method overriding in java ?
+9   Difference between abstract class and interface ?
+10    Why java is platform independent?
+11  Difference between this()  and super()  in java?
+12  How to call one constructor from the other constructor ?
+13  what are static blocks and static initalizers in Java?
+14  What is method in java ?
+15  What is constructor in java ?
+17  Difference between Character Constant and String Constant in java?
+18  Why main( method is public, static and void in java ?
+19  Explain about main( method in java ?
+20  What is difference between length and length( method in java ?
+21  What  is ASCII Code?
+22  What is Unicode ?
+23  What are constants and how to create constants in java?
+
 ## OOPS
-24  Explain about object oriented programming and its features? 
-25  What is Abstraction?  
-26  What is Encapsulation?  
-27  What is the difference between abstraction and encapsulation? 
-28  List out benefits of object oriented programming language?  
-29  Differences between traditional programming language and object oriented programming language?  
-30  What is Inheritance?  
-31  What is Polymorphism? 
-32  How does Java implement polymorphism? 
-33  Explain the different forms of Polymorphism 
-34  What is runtime polymorphism or dynamic method dispatch?  
-35  What is Dynamic Binding?  
-36  What is method overloading? 
-37  What is method overriding?  
-38  What are the differences between method overloading and method overriding?  
-39  Can overloaded methods be override too? 
-40  Is it possible to override the main method? 
-41  How to invoke a superclass version of an Overridden method? 
-42  What is super?  
-43  How do you prevent a method from being overridden?  
-44  What is an Interface? 
-45  Can we instantiate an interface?  
-46  Can we create an object for an interface? 
-47  Do interfaces have member variables?  
-48  What modifiers are allowed for methods in an Interface? 
-49  What is a marker interface? 
-50  What is an abstract class?  
-51  Can we instantiate an abstract class? 
-52  What are the differences between Interface and Abstract class?  
-53  When should I use abstract classes and when should I use interfaces?  
-54  When you declare a method as abstract, can other nonabstract methods access it? 
-55  Can there be an abstract class with no abstract methods in it?  
+24  Explain about object oriented programming and its features?
+25  What is Abstraction?
+26  What is Encapsulation?
+27  What is the difference between abstraction and encapsulation?
+28  List out benefits of object oriented programming language?
+29  Differences between traditional programming language and object oriented programming language?
+30  What is Inheritance?
+31  What is Polymorphism?
+32  How does Java implement polymorphism?
+33  Explain the different forms of Polymorphism?
+34  What is runtime polymorphism or dynamic method dispatch?
+35  What is Dynamic Binding?
+36  What is method overloading?
+37  What is method overriding? 
+38  What are the differences between method overloading and method overriding?
+39  Can overloaded methods be override too?
+40  Is it possible to override the main method?
+41  How to invoke a superclass version of an Overridden method?
+42  What is super?
+43  How do you prevent a method from being overridden?
+44  What is an Interface?
+45  Can we instantiate an interface?
+46  Can we create an object for an interface?
+47  Do interfaces have member variables?
+48  What modifiers are allowed for methods in an Interface?
+49  What is a marker interface?
+50  What is an abstract class? 
+51  Can we instantiate an abstract class?
+52  What are the differences between Interface and Abstract class?
+53  When should I use abstract classes and when should I use interfaces?
+54  When you declare a method as abstract, can other nonabstract methods access it?
+55  Can there be an abstract class with no abstract methods in it?
 56  What is IS-A relationship  in java?
 57  What is HAS A relationship in java?
 58  Difference between IS-A and HAS-A relationship in java?
 59  Explain about instanceof operator in java?
 60    What does null mean in java?
-61    Can we have multiple classes in single file ?
+61    Can we have multiple classes in single file?
 62    What all access modifiers are allowed for top class ?
 63  What are packages in java?
 64    Can we have more than one package statement in source file ?
@@ -76,17 +77,17 @@
 73    Explain about abstract classes in java?
 74  Can we create constructor in abstract class ?
 75    What are abstract methods in java?
-## Type Casting
 
-76 What is TypeConversion? 
-77 Explain Implicit Conversion/ Widening/Automatic Type Conversion? 
-78 What is Explicit Conversion/Narrowing/Casting? 
-79 Can a double value be cast to byte? How to cast double value to byte with help of the example? 
-80 Can a Boolean primitive value to be converted to any other primitive in java? 
-81 What is autoboxing and autounboxing? 
-82 What are advantages of autoboxing and autounboxing? 
-83 How to cast objects or what is object casting? 
-84 What is upcasting or downcasting? 
+## Type Casting
+76 What is TypeConversion?
+77 Explain Implicit Conversion/ Widening/Automatic Type Conversion?
+78 What is Explicit Conversion/Narrowing/Casting?
+79 Can a double value be cast to byte? How to cast double value to byte with help of the example?
+80 Can a Boolean primitive value to be converted to any other primitive in java?
+81 What is autoboxing and autounboxing?
+82 What are advantages of autoboxing and autounboxing?
+83 How to cast objects or what is object casting?
+84 What is upcasting or downcasting?
 
 ## Exception Handling
 85    State some situations where exceptions may arise in java?
