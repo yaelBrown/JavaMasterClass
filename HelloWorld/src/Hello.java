@@ -30,6 +30,10 @@ public class Hello {
         // Line break in results
         System.out.println("==========");
 
+        // Get maximum value for datatypes = "[dataType].MAX_VALUE;"
+        // Get minimum value for datatypes = "[dataType].MIN_VALUE;"
+        // Smaller datatype takes up much smaller space in memory. Good for performance.
+
         // Bytes use less space than integers (width of 8)
         byte myByteValue = -128;
 
@@ -44,9 +48,13 @@ public class Hello {
         // Practice casting
         long demo = 10000;
 
+        // need a 'L' after the number for Long. long [varName] = 100L;
+
         long a = (long) (demo * myByteValue) + myShortValue + result;
 
         System.out.println(a);
+
+        // Longs will happily accept integer values, because a maximum integer value will fit within a long value.
 
         // Line break in results
         System.out.println("==========");
