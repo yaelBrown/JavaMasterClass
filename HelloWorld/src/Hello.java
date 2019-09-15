@@ -62,6 +62,9 @@ public class Hello {
         // Float (add f after the number)
         float myFloatNumber = 5f;
 
+        // floats are not perfered floating datatype to use, doubles are.
+        // Computers on chip level process double numbers faster.
+
         // Double (Has double as much info as float)
         double myDoubleNumber = 5.25;
 
@@ -69,10 +72,18 @@ public class Hello {
         double convertToLBStoKG = pounds * 0.45359237;
         System.out.println("8 pounds is equal to: " + convertToLBStoKG + " kg");
 
+        // Double has more precision than the float.
+
+        // Doubles can also be written with underscores
+        double anotherNumber = 3_000_000.4_567_890d;
+        System.out.println(anotherNumber);      // 3000000.456789
+
         // Line break in results
         System.out.println("==========");
 
         // Char's support one character or unicode (width of 16 (2 bytes))
+        // Char store a single charater
+        //  Find unicodes: https://unicode-table.com/en/
         char myChar = '\u00A9';
         char registeredSymbol = '\u00AE';
 
@@ -80,8 +91,11 @@ public class Hello {
         boolean myBoolean = false;
 
         // Previous data types are primitive data types.
+        // A string is a sequence of characters.
         String myString = "This is a string ";
 
+        // Appending values to a string is inefficient and not recommended.
+        //  String buffer is better for that.
         System.out.println(myString + myChar);
 
         String numberString = "13";
@@ -94,15 +108,31 @@ public class Hello {
 
         boolean isAlien = false;
 
+        // can use shorthand if statements (as well as ternary operators)
+        // if (isAlien == false) System.out.println("It is not a alien");
+
         if (isAlien == false) {
             System.out.println("It is not a alien");
         } else {
             System.out.println("It is a alien!");
         }
-        
+
+        // Operand is an object that is manipulated by an operator. (Can be any datatype).
+        // Expression is formed by combining varaibles, literals, method return values.
+        // = is assignment operator. Don't for get it's an Operator !
+
+        // Shorthand for division is the 'meh face' /=. Ex: result /= 3; ( 10 )
+
+
         // Ternary operator
         boolean isCar = true;
 
         boolean wasCar = isCar ? true : false;
+
+        // Single & is a bitwise operator working at the bit level.
+
+        // Java Operators Precedence Table : http://www.cs.bilkent.edu.tr/~guvenir/courses/CS101/op_precedence.html
+
+        // Summary of operators : https://docs.oracle.com/javase/tutorial/java/nutsandbolts/opsummary.html
     }
 }
