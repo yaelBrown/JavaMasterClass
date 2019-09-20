@@ -1,4 +1,4 @@
-class Main {
+class LbsToKgs {
 
     public static void main(String[] args) {
         int weightInPounds = 223;
