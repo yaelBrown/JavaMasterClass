@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec919fc0-2b2c-41a0-9a98-707c4378cec6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/HelloWorld/src/ControlFlowifElse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloWorld/src/ReverseNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloWorld/src/something.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/JavaMasterClass.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/JavaMasterClass.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld/src/ControlFlow.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/src/ControlFlow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld/src/LbsToKgs.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/src/LbsToKgs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/src/something.java" beforeDir="false" afterPath="$PROJECT_DIR$/DiagnalStarChallenge.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,11 +34,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HelloWorld/src/ReverseNumber.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
               <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HelloWorld/src/Variables.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DiagnalStarChallenge.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
             </state>
           </provider>
         </entry>
@@ -90,6 +103,7 @@
         <option value="$PROJECT_DIR$/HelloWorld/src/ControlFlow.java" />
         <option value="$PROJECT_DIR$/HelloWorld/src/reverseNumer.java" />
         <option value="$PROJECT_DIR$/HelloWorld/src/ReverseNumber.java" />
+        <option value="$PROJECT_DIR$/DiagnalStarChallenge.txt" />
       </list>
     </option>
   </component>
@@ -200,7 +214,7 @@
     <frame x="2254" y="344" width="1587" height="1731" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2351015" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14341846" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -209,7 +223,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22590739" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.22590739" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -264,13 +278,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HelloWorld/src/Variables.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="89" selection-start-line="89" selection-end-line="89" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JavaInterviewQuestions.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -292,9 +299,6 @@
           <caret line="135" column="106" selection-start-line="135" selection-start-column="106" selection-end-line="135" selection-end-column="106" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloWorld/src/something.java">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/HelloWorld/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -331,10 +335,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/HelloWorld/src/something.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/HelloWorld/src/ReverseNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelloWorld/src/Variables.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DiagnalStarChallenge.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
         </state>
       </provider>
     </entry>
