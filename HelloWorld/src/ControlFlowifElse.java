@@ -11,9 +11,6 @@ public class ControlFlowifElse {
 
         // closes the scanner
         scanner.close();
-
-        
-
     }
 
 }
