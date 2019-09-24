@@ -1,7 +1,5 @@
 public class ControlFlow {
 
-
-
     public static void main(String[] args) {
         int switchValue = 3;
         char charValue = 'A';
@@ -65,5 +63,13 @@ public class ControlFlow {
                 System.out.println("not sure");
                 break;
         }
+
+
+    }
+
+
+    // Simple interest to print the amount in interest
+    public static double calculateInterest(double amount, double interestRate) {
+        return (amount *(interestRate/100));
     }
 }
