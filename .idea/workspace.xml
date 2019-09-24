@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec919fc0-2b2c-41a0-9a98-707c4378cec6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/HelloWorld/src/LbsToKgs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloWorld/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld/src/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/src/Hello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaInterviewQuestions.md" beforeDir="false" afterPath="$PROJECT_DIR$/JavaInterviewQuestions.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,7 +19,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HelloWorld/src/OverLoadingMethods.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
+            <state relative-caret-position="312">
               <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
             </state>
           </provider>
@@ -30,8 +28,20 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/HelloWorld/src/Hello.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1508">
-              <caret line="135" column="106" selection-start-line="135" selection-start-column="106" selection-end-line="135" selection-end-column="106" />
+            <state relative-caret-position="325">
+              <caret line="25" column="11" lean-forward="true" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
+              <folding>
+                <element signature="e#0#4347#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HelloWorld/src/LbsToKgs.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="104">
+              <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -39,7 +49,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HelloWorld/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
+            <state relative-caret-position="104">
               <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
             </state>
           </provider>
@@ -48,7 +58,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HelloWorld/src/Variables.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="1092">
               <caret line="89" selection-start-line="89" selection-end-line="89" />
             </state>
           </provider>
@@ -56,12 +66,10 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JavaInterviewQuestions.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor />
-              <second_editor>
-                <markdownNavigatorState />
-              </second_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -91,10 +99,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2190" />
-    <option name="y" value="8" />
-    <option name="width" value="1233" />
-    <option name="height" value="2069" />
+    <option name="x" value="210" />
+    <option name="y" value="24" />
+    <option name="width" value="1460" />
+    <option name="height" value="1000" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -130,6 +138,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -166,20 +177,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1565833709738</updated>
+      <workItem from="1568646551685" duration="1253000" />
     </task>
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1253000" />
+  </component>
   <component name="ToolWindowManager">
-    <frame x="2190" y="8" width="1233" height="2069" extended-state="0" />
-    <editor active="true" />
+    <frame x="210" y="24" width="1460" height="1000" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2924126" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16431594" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -187,9 +203,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.11880165" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.28526646" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -200,28 +217,29 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/HelloWorld/src/OverLoadingMethods.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
+        <state relative-caret-position="312">
           <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/HelloWorld/src/Variables.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="1092">
           <caret line="89" selection-start-line="89" selection-end-line="89" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JavaInterviewQuestions.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
+          <second_editor />
         </state>
       </provider>
       <provider editor-type-id="text-editor">
@@ -232,22 +250,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/HelloWorld/src/LbsToKgs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
+        <state relative-caret-position="104">
           <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/HelloWorld/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
+        <state relative-caret-position="104">
           <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/HelloWorld/src/Hello.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1508">
-          <caret line="135" column="106" selection-start-line="135" selection-start-column="106" selection-end-line="135" selection-end-column="106" />
+        <state relative-caret-position="325">
+          <caret line="25" column="11" lean-forward="true" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#4347#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

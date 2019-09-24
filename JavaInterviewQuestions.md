@@ -173,7 +173,6 @@
 162 In java how do we copy objects? 
 
 ## Theads
-
 163 What is thread in java? 
 164   Difference between process and thread?  
 165   What is multitasking ?  
@@ -229,7 +228,6 @@
 215 Can we make main() thread as daemon?
 
 ## Collection Framework
-
 216 What is collection ?
 217 Difference between collection, Collection and Collections in java?
 218 Explain about Collection  interface in java ?
@@ -265,7 +263,6 @@
 248 Explain about fail safe iterators in java?
 
 ## Serialization
-
 249 What is serialization in java?  
 250 What is the main purpose of serialization in java?  
 251 What are alternatives to java serialization?  
