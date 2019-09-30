@@ -12,13 +12,15 @@ public class Array {
         // Shorthand way of assigning values to array
         int[] arr2 = {1, 2, 3, 4, 5};
 
-        for (int i = 0; i < 5; i++) {
+        for (int i = 0; i < arr2.length ; i++) {
             arr2[i] = i * 10;
         }
 
-        for (int i = 0; i < 5; i++) {
+        for (int i = 0; i < arr2.length; i++) {
             System.out.println("Element " + i + ", value is " + arr2[i]);
         }
+
+        // Arrays cannot have a negative index. (ArrayIndexOutOfBoundsException)
 
     }
 }
