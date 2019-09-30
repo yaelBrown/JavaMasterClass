@@ -23,6 +23,13 @@ public class ArrayListLesson {
 //       String[] myArray = new String[groceryList.getGroceryList().size()];
 //       myArray = groceryList.getGroceryList().toArray(myArray);
 
+        // .contains(e) method returns of a boolean if e is in the arrayList
+
+        // arrL.remove(arrL.indexOf(e)) - quickly removes elements if they are present.
+        
+        // can use forEach loop for arrL
+
+        // arrL.get(0).method() - when you specify the item in the array you can use its methods
     }
 
     public ArrayList<String> getGroceryList() {
@@ -30,6 +37,7 @@ public class ArrayListLesson {
     }
 
     // The <E> is the datatype of the element.
+    // Don't to add datatype on the new ArrayList<>();
     private ArrayList<String> groceryList = new ArrayList<String>();
 
     // Add item to arraylist
@@ -72,7 +80,7 @@ public class ArrayListLesson {
 
 //    public String findItem(String searchItem) {
 ////        boolean exists = groceryList.contains(searchItem);
-//        int position = groceryList.indexOf(searchItem); // finds the index of matching item
+//        int position = groceryList.indexOf(searchItem); // finds and returns int of the index of matching item
 //        if (position >= 0) {
 //            return groceryList.get(position); // using the found index, does a get of the item in the arraylist.
 //        }
@@ -85,4 +93,5 @@ public class ArrayListLesson {
     }
 
     // When referencing a item outside of the arraylist you will get IndexOutOfBoundsException
+    // When you search for indexOf something that does not exist, it will return int -1
 }
