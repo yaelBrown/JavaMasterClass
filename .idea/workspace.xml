@@ -2,11 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22a6ca4f-bb50-4c69-b406-d8f70874fc15" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/HelloWorld/src/AutoboxingUnboxing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/src/Collections/CollectionLec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/src/Collections/CollectionMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/src/Collections/HashMapsss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/src/Interfaces/Crashable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/src/Interfaces/Drivable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/src/Interfaces/InterfaceMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/src/Interfaces/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/colls-coreInterfaces.gif" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/out/META-INF/JavaMasterClass.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/out/META-INF/JavaMasterClass.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/out/production/HelloWorld/ControlFlow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/out/production/HelloWorld/ExpStateMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/out/production/HelloWorld/Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/out/production/HelloWorld/OverLoadingMethods.class" beforeDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/HelloWorld/out/" />
-    <ignored path="/test/JavaMasterClass/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,21 +24,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/HelloWorld/src/AutoboxingUnboxing.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -40,58 +36,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/HelloWorld/src/Arrays/Array.java" />
-        <option value="$PROJECT_DIR$/HelloWorld/src/Arrays/Types.java" />
-        <option value="$PROJECT_DIR$/HelloWorld/src/Arrays/ReverseArrayChallenge.java" />
-        <option value="$PROJECT_DIR$/HelloWorld/src/Arrays/ArrayList.java" />
-        <option value="$PROJECT_DIR$/HelloWorld/src/Arrays/ArrayListLesson.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/HelloWorld/src/AutoboxingUnboxing.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="776" />
-    <option name="y" value="300" />
-    <option name="width" value="1539" />
-    <option name="height" value="1774" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="JavaMasterClass" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaMasterClass" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaMasterClass" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaMasterClass" type="462c0819:PsiDirectoryNode" />
-              <item name="HelloWorld" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaMasterClass" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaMasterClass" type="462c0819:PsiDirectoryNode" />
-              <item name="HelloWorld" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectId" id="1RfpydD8W13z8LJfnBkS9McWbrw" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -105,13 +57,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Types">
+  <component name="RunManager" selected="Application.HashMapsss">
     <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.Array" />
       <module name="JavaMasterClass" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashMapsss" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.HashMapsss" />
+      <module name="JavaMasterClass" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InterfaceMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Interfaces.InterfaceMain" />
+      <module name="JavaMasterClass" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Interfaces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,8 +110,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Specifications" type="executeSpecs" factoryName="Gauge Execution" temporary="true">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="JavaMasterClass" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HashMapsss" />
+        <item itemvalue="Gauge Execution.Specifications" />
+        <item itemvalue="Application.InterfaceMain" />
         <item itemvalue="Application.Types" />
         <item itemvalue="Application.Array" />
       </list>
@@ -152,102 +148,18 @@
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="776" y="300" width="1539" height="1774" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20622042" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3295129" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3295129" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-    </layout>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloWorld/src/Arrays/ArrayList.java" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_Arrays,-Java-inbuilt-Lists,-Autoboxing-and-Unboxing-List-and-ArrayList-Part-1-Source-code.zip/src/GroceryList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" selection-start-line="19" selection-end-line="27" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/lang/Class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="158" column="19" selection-start-line="158" selection-start-column="19" selection-end-line="158" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="7" lean-forward="true" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloWorld/src/Arrays/ArrayListLesson.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-451">
-          <caret line="28" column="27" lean-forward="true" selection-start-line="27" selection-start-column="46" selection-end-line="29" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloWorld/src/Arrays/ReverseArrayChallenge.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloWorld/src/Arrays/Types.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="42" column="58" lean-forward="true" selection-start-line="42" selection-start-column="58" selection-end-line="42" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloWorld/src/Arrays/Array.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloWorld/src/AutoboxingUnboxing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
