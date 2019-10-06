@@ -50,8 +50,6 @@ public class HashMapsss {
         // Get all the keys
         System.out.println("aa.keySet() = " + aa.keySet());
 
-
     }
-
 
 }

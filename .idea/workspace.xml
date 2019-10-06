@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22a6ca4f-bb50-4c69-b406-d8f70874fc15" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/HelloWorld/src/Collections/CollectionLec.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloWorld/src/Collections/CollectionMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloWorld/src/Collections/HashMapsss.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloWorld/src/Interfaces/Crashable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloWorld/src/Interfaces/Drivable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloWorld/src/Interfaces/InterfaceMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloWorld/src/Interfaces/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/colls-coreInterfaces.gif" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld/out/META-INF/JavaMasterClass.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/out/META-INF/JavaMasterClass.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld/out/production/HelloWorld/ControlFlow.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld/out/production/HelloWorld/ExpStateMethods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld/out/production/HelloWorld/Hello.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld/out/production/HelloWorld/OverLoadingMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/src/Collections/HashMapsss.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/src/Collections/HashMapsss.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +31,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -153,7 +141,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
