@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="22a6ca4f-bb50-4c69-b406-d8f70874fc15" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld/src/Collections/HashMapsss.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/src/Collections/HashMapsss.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,6 +30,9 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../java-adlister" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RunDashboard">
@@ -116,7 +118,6 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.HashMapsss" />
-        <item itemvalue="Gauge Execution.Specifications" />
         <item itemvalue="Application.InterfaceMain" />
         <item itemvalue="Application.Types" />
         <item itemvalue="Application.Array" />
@@ -133,8 +134,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569795719228</updated>
+      <workItem from="1571361057391" duration="1812000" />
+      <workItem from="1571442356819" duration="269000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
