@@ -1,0 +1,26 @@
+        <!-- Quick response bar -->
+         <form th:action="'/message/view/' + ${recip.id} + '/quick'" method="post">
+          <div class="input-group mb-3 form-group">
+            <input type="text" placeholder="Type a message" name="message" class="form-control">
+            <button type="submit" class="btn btn-outline-primary"><i class="far fa-paper-plane"></i></button>
+          </div>
+        </form>
+      
+
+
+      const saveResponse = (msg) => {
+    const msgToSave = JSON.stringify({message: msg, _csrf: "something"});
+
+    try {
+        fetch("/message/view/" + recip + "/quick",
+            {
+                method: 'POST',
+                body: msgToSave
+            })
+    } catch (e) {
+        console.error(e);
+    }
+
+    updateConversation();
+    document.getElementById("messageQuickResponse").value = "";
+}
