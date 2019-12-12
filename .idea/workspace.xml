@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
+    <list default="true" id="22a6ca4f-bb50-4c69-b406-d8f70874fc15" name="Default Changelist" comment="" />
+=======
     <list default="true" id="22a6ca4f-bb50-4c69-b406-d8f70874fc15" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
+>>>>>>> 1285b903bcd1e7e3792ba754b4780247d94a5523
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,7 +15,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
+<<<<<<< HEAD
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+=======
     <option name="isMigrated" value="true" />
+>>>>>>> 1285b903bcd1e7e3792ba754b4780247d94a5523
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -23,6 +32,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< HEAD
+  <component name="ProjectId" id="1Rk1dWaeqMT5JXNefke8zTus4Rf" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+=======
   <component name="ProjectId" id="1RfpydD8W13z8LJfnBkS9McWbrw" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -34,6 +49,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../java-adlister" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+>>>>>>> 1285b903bcd1e7e3792ba754b4780247d94a5523
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -134,13 +150,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569795719228</updated>
+<<<<<<< HEAD
+      <workItem from="1570196370536" duration="16000" />
+=======
       <workItem from="1571361057391" duration="1812000" />
       <workItem from="1571442356819" duration="269000" />
+>>>>>>> 1285b903bcd1e7e3792ba754b4780247d94a5523
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+<<<<<<< HEAD
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+=======
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -157,5 +190,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+>>>>>>> 1285b903bcd1e7e3792ba754b4780247d94a5523
   </component>
 </project>
