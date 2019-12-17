@@ -1,2 +1,23 @@
 Difference between StringBuffer and StringBuilder
   StringBuffer is synchonized, StringBuilder is not.
+
+Static is a visibility keyword (private, public, and protected)
+
+abstract is a non-access modifier in java
+
+interfaces are only method signatures not bodies
+  cannot be instansiated
+  using interfaces you can achieve multiple inheritance
+
+  variables in interfaces are final public and static
+
+4 pillars of oop
+  abstraction
+  encapsulation
+  inheritance
+  polymorphism
+
+3 states of promises
+  pending
+  resolved
+  rejected
